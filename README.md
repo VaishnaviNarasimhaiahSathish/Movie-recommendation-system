@@ -8,10 +8,10 @@ This project builds a movie recommender using collaborative filtering and cosine
 - Modular code in Python for easy reuse
 
 📁 Project Structure
-- `data/`: Instructions for downloading the dataset
-- `notebooks/`: Main notebook with full implementation and visualizations
-- `results/`: Output samples
-- `images/`: Charts and plots
+- data: Dataset used for building the project
+- Movie_Recommender.ipynb: Main notebook with full implementation and visualizations
+- Results: Output samples
+
 
 🛠 Tech Stack
 - Python, NumPy, pandas, matplotlib, scikit-learn, Jupyter
