@@ -19,7 +19,3 @@ This project builds a movie recommender using collaborative filtering and cosine
 📂 Dataset
 TMDB dataset from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 
-🚀 Run It Yourself
-```bash
-pip install -r requirements.txt
-jupyter notebook notebooks/Movie_Recommender.ipynb
