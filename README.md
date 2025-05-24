@@ -1,2 +1,25 @@
-# Movie-recommendation-system
-A collaborative filtering-based movie recommendation system using the TMDB dataset from Kaggle. Implements item-based similarity with Python, scikit-learn, and pandas to deliver personalized movie suggestions. Includes modular code, visualizations, and sample results.
+ 🎬 Movie Recommendation System
+This project builds a movie recommender using collaborative filtering and cosine similarity, trained on the TMDB dataset from Kaggle.
+
+📊 Features
+- Item-based collaborative filtering
+- Cosine similarity for user preference analysis
+- Interactive output via Jupyter Notebook
+- Modular code in Python for easy reuse
+
+📁 Project Structure
+- `data/`: Instructions for downloading the dataset
+- `notebooks/`: Main notebook with full implementation and visualizations
+- `results/`: Output samples
+- `images/`: Charts and plots
+
+🛠 Tech Stack
+- Python, NumPy, pandas, matplotlib, scikit-learn, Jupyter
+
+📂 Dataset
+TMDB dataset from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
+
+🚀 Run It Yourself
+```bash
+pip install -r requirements.txt
+jupyter notebook notebooks/Movie_Recommender.ipynb
